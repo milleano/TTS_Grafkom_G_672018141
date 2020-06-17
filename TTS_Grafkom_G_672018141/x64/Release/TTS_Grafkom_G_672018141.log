@@ -1,7 +1,23 @@
 ﻿  TTS_Grafkom_G_672018141.cpp
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1473,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1474,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1479,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1480,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1505,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1506,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1511,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1512,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1521,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1522,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1527,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1528,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1537,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1538,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1543,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141\TTS_Grafkom_G_672018141.cpp(1544,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
   Generating code
-  2 of 65 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
+  60 of 123 functions (48.8%) were compiled, the rest were copied from previous compilation.
+    58 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   TTS_Grafkom_G_672018141.vcxproj -> C:\Users\Milleano\source\repos\TTS_Grafkom_G_672018141\x64\Release\TTS_Grafkom_G_672018141.exe
